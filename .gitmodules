@@ -17,3 +17,4 @@
 [submodule "components/coap/libcoap"]
 	path = components/coap/libcoap
 	url = ../../ishwarmudraje/libcoap.git
+	branch = fix
