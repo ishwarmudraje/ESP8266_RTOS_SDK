@@ -5,6 +5,7 @@
 [submodule "components/mbedtls/mbedtls"]
 	path = components/mbedtls/mbedtls
 	url = git@github.com:ishwarmudraje/mbedtls.git
+	branch = mbedtls-2.16.5-idf
 
 [submodule "components/lwip/lwip"]
 	path = components/lwip/lwip
